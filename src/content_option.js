@@ -182,8 +182,9 @@ const dataportfolio = [
 const contactConfig = {
   YOUR_EMAIL: "peyman.techscribe@gmail.com",
   YOUR_FONE: "+98 917 499 8845",
-  description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+  description: `Thank you for visiting my portfolio! I am passionate about creating efficient, scalable, and robust backend systems that power seamless user experiences. If you have any inquiries, project proposals, or collaboration ideas, I would love to hear from you.
+
+Feel free to reach out through the form below or contact me directly via email or phone. I am always open to discussing new projects, addressing technical questions, or exploring opportunities to work together.`,
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",

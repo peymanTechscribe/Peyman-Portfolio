@@ -64,7 +64,7 @@ const skills = [
     value: 30,
   },
   {
-    name: "Unit Testing Software",
+    name: "Unit Testing",
     value: 50,
   },
   {
@@ -81,7 +81,7 @@ const skills = [
   },
   {
     name: "Docker",
-    value: 20,
+    value: 35,
   },
 ];
 

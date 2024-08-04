@@ -135,6 +135,11 @@ const dataportfolio = [
     description: "Specialized sales in the field of coffee and cafe essentials",
     link: "https://coffeeraam.com/",
   },
+  {
+    img: "/images/machine.jpg",
+    description: "Agricultural machinery accessories",
+    link: "https://arjangreenyazd.co/",
+  }
 ];
 
 const contactConfig = {

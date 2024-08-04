@@ -36,6 +36,11 @@ const worktimeline = [
     where: "Yazd",
     date: "2022-2023",
   },
+  {
+    jobtitle: "Freelance",
+    where: "Yazd",
+    date: "2021-Now",
+  },
 ];
 
 const skills = [

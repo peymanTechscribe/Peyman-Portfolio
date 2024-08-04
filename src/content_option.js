@@ -29,7 +29,7 @@ const worktimeline = [
   {
     jobtitle: "Asam Pardaz Isatis",
     where: "Yazd",
-    date: "2023-2024",
+    date: "2023-Now",
   },
   {
     jobtitle: "Zagros Rayan",
@@ -105,77 +105,30 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "/images/bus.jpg",
+    description: "Enobus | Smart school service",
+    link: "https://app.enobus.ir",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "/images/quran.jpg",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "The system of evaluation tests for awarding general memorization certificates to the memorizers of the Holy Quran",
+    link: "https://hefz.talavat.ir",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "/images/tailoring.jpg",
+    description: "Specialized clothing ordering site",
+    link: "https://order.afshincoat.com/",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "/images/cloth.avif",
+    description: "Fabric sales site",
+    link: "https://www.app.parchesara.com/login",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "/images/coffee.webp",
+    description: "Specialized sales in the field of coffee and cafe essentials",
+    link: "https://coffeeraam.com/",
   },
 ];
 
@@ -187,9 +140,9 @@ const contactConfig = {
 Feel free to reach out through the form below or contact me directly via email or phone. I am always open to discussing new projects, addressing technical questions, or exploring opportunities to work together.`,
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_SERVICE_ID: "service_5hxl1tk",
+  YOUR_TEMPLATE_ID: "template_q7uvpt7",
+  YOUR_USER_ID: "7dMyy3DiZxrqcDjTY",
 };
 
 const socialprofils = {

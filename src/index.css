@@ -5,7 +5,7 @@
   --text-color: #fff;
   --text-color-2: #fff;
   --text-color-3: rgb(204, 0, 0);
-  --overlay-color: rgb(12 12 12 / 63%);
+  --overlay-color: rgb(12 12 12 / 30%);
 }
 
 [data-theme="light"] {
@@ -15,7 +15,7 @@
   --text-color: #000;
   --text-color-2: #000;
   --text-color-3: rgb(204, 0, 0);
-  --overlay-color: rgb(255 255 255 / 70%);
+  --overlay-color: rgb(255 255 255 / 30%);
 }
 
 html,
@@ -80,12 +80,13 @@ code {
 }
 
 .cursor__dot div:last-child {
-  background-color: #04798e !important;
+  background-color: var(--secondary-color) !important;
 }
 
 .cursor__dot div:first-child {
-  /* filter: invert(1); */
-  background-color: var(--text-color) !important;
+  filter: invert(1);
+  /* background-color: rgb(49, 45, 45); */
+  background-color: var(--overlay-color) !important;
 }
 
 .color_pr {

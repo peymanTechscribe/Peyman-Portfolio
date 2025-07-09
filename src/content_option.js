@@ -23,7 +23,11 @@ const introdata = {
 const dataabout = {
   title: "abit about my self",
   aboutme:
-    "I'm Peyman Jafari, a passionate and dedicated backend developer with a strong focus on creating robust, scalable, and efficient backend systems. With extensive experience in various backend technologies, I specialize in designing and implementing server-side logic, database structures, and API integrations",
+    "My name is Peyman Jafari, a 19-year-old software developer with a strong passion for technology and continuous learning. I have three years of professional experience and one year of semi-professional work in the field. My primary expertise lies in PHP and Laravel, where I excel in building robust, scalable backend systems. Additionally, I have hands-on experience with Go (Golang) and scripting, which allows me to tackle diverse development challenges with versatility.\n" +
+      "\n" +
+      "I began my journey in programming at the age of 15, driven by curiosity and a desire to create impactful solutions. Over the years, I’ve honed my skills through real-world projects, focusing on clean code, efficient architectures, and user-centric designs. I thrive on learning new technologies and frameworks, constantly seeking to expand my skill set and stay ahead in the fast-evolving tech landscape.\n" +
+      "\n" +
+      "Beyond coding, I’m dedicated to problem-solving and collaborating with teams to deliver high-quality software. My goal is to contribute to innovative projects that make a difference, while continuing to grow as a developer and embrace new challenges in the world of technology.",
 };
 const worktimeline = [
   {

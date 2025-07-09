@@ -122,13 +122,28 @@ const dataportfolio = [
   },
   {
     img: "/images/tailoring.jpg",
-    description: "Specialized clothing ordering site",
-    link: "https://order.afshincoat.com/",
+    description: "Specialized clothing ordering site,no website address due to admin nature.",
+    link: "#",
+  },
+  {
+    img: "/images/kheymah.jpg",
+    description: "Full implementation of backend, frontend admin panel, and complete preparation of user-side APIs.",
+    link: "https://kheymah.com/",
   },
   {
     img: "/images/cloth.avif",
-    description: "Fabric sales site",
-    link: "https://www.app.parchesara.com/login",
+    description: "Fabric sales site,no website address due to admin nature.",
+    link: "#",
+  },
+  {
+    img: "/images/arg-logo.svg",
+    description: "Backend for Yazd's New Arg Hotel admin panel with support, no website address due to admin nature.",
+    link: "#",
+  },
+  {
+    img: "/images/gold.jpg",
+    description: "Complete design and implementation of the backend, admin panel, and user-side APIs for a jewelry website.",
+    link: "kashkolgold.com",
   },
   {
     img: "/images/coffee.webp",

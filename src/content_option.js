@@ -147,7 +147,7 @@ const dataportfolio = [
   {
     img: "/images/gold.jpg",
     description: "Complete design and implementation of the backend, admin panel, and user-side APIs for a jewelry website.",
-    link: "kashkolgold.com",
+    link: "https://kashkolgold.com/",
   },
   {
     img: "/images/coffee.webp",
